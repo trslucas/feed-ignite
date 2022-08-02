@@ -1,4 +1,4 @@
-Projeto Ignite Feed
+# Projeto Ignite Feed
 
 Minha primeira aplicação em ReactJS
 
@@ -13,22 +13,23 @@ onde tive a oportunidade de aprender sobre:
 - Imutabilidade 
 - Além de após os itens supracitados, refatoramos o código usando Typescript
 
-- Layout 
+## Layout 
 <div align="center">
-<img align="center" alt="Lucas-Js" src="https://i.imgur.com/PdBxT3L.png"> <br>
+<img align="center" alt="Ignite-Feed" src="https://i.imgur.com/PdBxT3L.png"> <br>
 </div>
 
 
 -----------------------------------------------------
 
-Para rodar o projeto: 
+## Para acessar o projeto: 
 
 - Baixar o zip, ou pelo git, usar o git clone 
 
-- Ao abrir o projeto no vscode, para instalar as dependências:  
+- Ao abrir o projeto, no terminal para instalar as dependências use:   
 - npm install 
+- Abrir em http://localhost:3000/
 
-- Para rodar o projeto: 
+## Para rodar o projeto: 
 - npm run dev 
 
 
